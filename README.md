@@ -54,5 +54,5 @@ Feel free to contribute to this project by submitting issues or pull requests.
 This project is licensed under the MIT License.
 
 ---
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by [koustubh sadavarte]
 
