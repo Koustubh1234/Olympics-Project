@@ -44,15 +44,6 @@ The dataset used for this project is **120 Years of Olympic History: Athletes an
    streamlit run app.py
    ```
 
-## Live Demo
-Check out the live demo here: [Olympixplore](https://oda-campusx.herokuapp.com/)
-
-## Contributing
-Feel free to contribute to this project by submitting issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 Developed with ❤️ by [koustubh sadavarte]
 
